@@ -1,0 +1,6 @@
+{
+  "name": "ModaTask - Gestión Diaria de Tienda",
+  "description": "Aplicación móvil y de mostrador para gestionar de forma eficiente las tareas diarias, turnos, probadores y reposición en tiendas de ropa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
